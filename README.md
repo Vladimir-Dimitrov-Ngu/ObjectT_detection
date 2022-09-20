@@ -1,3 +1,3 @@
 # Object_detection
 
-Various codes related to DL will be laid out **here**
+Various codes related to DL will be laid out **here**.
